@@ -16,6 +16,10 @@ Or install it yourself as:
 
     $ gem install guard-railsbp
 
+Next, generate a default `Guardfile` in your root directory:
+
+    $ guard init railsbp
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/andreygerasimchuk/guard-railsbp.
